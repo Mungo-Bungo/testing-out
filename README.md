@@ -4,4 +4,8 @@ Now im adding additional lines here as you can see. pretty cool.
 
 Example of adding line, to test pulling from git.
 
-just testing
+yada yada
+
+for example for example
+
+stinky butt
