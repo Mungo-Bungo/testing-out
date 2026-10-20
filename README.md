@@ -1,11 +1,18 @@
 This is the first commit, testing out the git terminal commands.
 
+
 Now im adding additional lines here as you can see. pretty cool.
 
-Example of adding line, to test pulling from git.
 
 yada yada
 
 for example for example
 
-stinky butt
+stinky butt asdf
+
+
+
+
+
+
+Example of adding line, to test pulling from git.
