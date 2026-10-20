@@ -1,4 +1,4 @@
-making a git merge conflict.
+this is the rand branch side of the merge conflict
 
 just adding some commit on new branch.
 
