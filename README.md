@@ -1,4 +1,4 @@
-This is the first commit, testing out the git terminal commands.
+this is the rand branch side of the merge conflict
 
 just adding some commit on new branch.
 
