@@ -1,4 +1,4 @@
-This is the first commit, testing out the git terminal commands.
+making a git merge conflict.
 
 just adding some commit on new branch.
 
